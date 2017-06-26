@@ -1,10 +1,10 @@
 /* Site settings */
 body {background-color:#ffffff;margin:0px;font-family:Arial,sans-serif;font-size:13px;font-weight:normal;font-style:normal;text-decoration:none;text-rendering:optimizeLegibility;font-feature-settings:'kern', 'liga' 0, 'clig' 0, 'calt' 0;color:#000000;letter-spacing:0em;-webkit-print-color-adjust:exact;}
-a {text-decoration:underline;}
+a {text-decoration:none;}
 a:link {color:#0000EE; cursor:pointer;}
 a:visited {color:#561A8B;}
 a:hover {color:#0000EE;}
-a * {color:#0000EE;text-decoration:underline;}
+a * {color:#0000EE;text-decoration:none;}
 sup {font-size:0.5em; vertical-align: 0.66em;}
 sub {font-size:0.5em; vertical-align: -0.1em;}
 .xr_tl {position: absolute; white-space: pre; unicode-bidi:bidi-override;}
@@ -61,8 +61,8 @@ a:active .xr_ro {opacity:0;}
 .xr_apb {display:block; position:absolute;}
 .xr_c_Theme_Color_2 {color:#222327;}
 .xr_c_Text {color:#585858;}
-.xr_c_Background {color:#FFFFFF;}
 .xr_c_Theme_Color_1 {color:#1D1D1D;}
+.xr_c_Background {color:#FFFFFF;}
 .xr_c_Glass {color:#00CCFF;}
 #xr_nb1 {font-family:Arial; font-size:11px;}
 #xr_nb1 li:hover > a {background-color:#666666; color:#FFFFFF;}
